@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ScanMaster - QR Code Generator
 
 A minimal React + Node.js MVP for generating QR codes quickly and easily.
@@ -58,3 +59,7 @@ scanmaster1/
 - Backend runs on port 5000
 - Frontend runs on port 3000
 - Frontend proxies API requests to backend
+=======
+# raze
+raze
+>>>>>>> e9582450b089517497049c1e0bdea042d2257d4f
